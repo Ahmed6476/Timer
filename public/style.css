@@ -1,0 +1,48 @@
+body{
+    background-color: rgba(51, 236, 236, 0.931);
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0%;
+}
+p{
+    background-color: aliceblue;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+    margin-top: -30;
+    height: 300px;
+    width: 300px;
+    border-color: #1995ad;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 50%;
+    position: absolute;
+    top: 10%;
+    left: 37%;
+}
+.start-button{
+    width: 100px;
+    height: 30px;
+    border: 3px soldi white;
+    border-radius: 50px;
+    background: #447fc4;
+    color: white;
+    cursor: pointer;
+    outline: none;
+    position: absolute;
+    top: 70%;
+    left: 40%;
+}
+#pause-button{
+    width: 100px;
+    height: 30px;
+    border: 3px soldi white;
+    border-radius: 50px;
+    background: #447fc4;
+    color: white;
+    cursor: pointer;
+    outline: none;
+    position: absolute;
+    top: 70%;
+    left: 50%;
+}
